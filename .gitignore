@@ -1,0 +1,23 @@
+.env
+.env.*
+
+# python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# ide
+.vscode/
+.idea/
+*.iml
+
+# os
+.DS_Store
+Thumbs.db
+
+# logs
+*.log
+logs/

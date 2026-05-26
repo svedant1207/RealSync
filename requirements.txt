@@ -1,0 +1,13 @@
+# web framework
+fastapi
+uvicorn[standard]
+
+# database
+motor
+
+# data validation
+pydantic
+pydantic-settings
+
+# environment variables
+python-dotenv
